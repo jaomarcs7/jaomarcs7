@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-"Oi! Sou um analista de dados apaixonado por resolver problemas complexos e encontrar insights valiosos. Com sólidas habilidades em análise de dados em SQL, e Python, estou sempre pronto para enfrentar desafios analíticos.
+"Oi! Sou um analista de Performance e Testes Q.A apaixonado por resolver problemas complexos e encontrar insights valiosos. Com sólidas habilidades em análise de dados em SQL, e Python, estou sempre pronto para enfrentar desafios analíticos.
 
 - 🌱 I’m currently learning Data analyst, Python, R, Tableau, Pandas 
 - 🤔 I’m looking for help with My personal projects
